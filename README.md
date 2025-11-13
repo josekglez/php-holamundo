@@ -1,2 +1,2 @@
-# php-holamundo2
+# php-holamundo
 primera aplicacion php
